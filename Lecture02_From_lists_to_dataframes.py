@@ -5,3 +5,7 @@ Data structures in Python and in Pandas
 Performance in Pandas (sort, max, mean)
 When to use Pandas
 Data Types """
+
+import timeit
+import pandas as pd
+import numpy as np
